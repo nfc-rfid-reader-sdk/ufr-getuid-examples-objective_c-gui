@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0A18CE41-CB3C-4914-8035-82DEE1E72A99</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0A18CE41-CB3C-4914-8035-82DEE1E72A99.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_ufr_objc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_ufr_objc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug test_ufr_objc</string>
+			<key>timeStartedRecording</key>
+			<real>577796274.65927303</real>
+			<key>timeStoppedRecording</key>
+			<real>577796381.42088103</real>
+			<key>title</key>
+			<string>Debug test_ufr_objc</string>
+			<key>uniqueIdentifier</key>
+			<string>0A18CE41-CB3C-4914-8035-82DEE1E72A99</string>
+		</dict>
+		<key>10901B40-6DA1-4F33-8553-53491D91A85D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>10901B40-6DA1-4F33-8553-53491D91A85D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_ufr_objc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_ufr_objc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug test_ufr_objc</string>
+			<key>timeStartedRecording</key>
+			<real>577796730.09988594</real>
+			<key>timeStoppedRecording</key>
+			<real>577796844.14806497</real>
+			<key>title</key>
+			<string>Debug test_ufr_objc</string>
+			<key>uniqueIdentifier</key>
+			<string>10901B40-6DA1-4F33-8553-53491D91A85D</string>
+		</dict>
+		<key>21D17C68-4CAC-4261-80B3-00BB345AE9B6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>21D17C68-4CAC-4261-80B3-00BB345AE9B6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_ufr_objc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_ufr_objc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug test_ufr_objc</string>
+			<key>timeStartedRecording</key>
+			<real>577796160.79386699</real>
+			<key>timeStoppedRecording</key>
+			<real>577796211.11141801</real>
+			<key>title</key>
+			<string>Debug test_ufr_objc</string>
+			<key>uniqueIdentifier</key>
+			<string>21D17C68-4CAC-4261-80B3-00BB345AE9B6</string>
+		</dict>
+		<key>347FFCB0-C558-466D-998A-38FC9602DD70</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>347FFCB0-C558-466D-998A-38FC9602DD70.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_ufr_objc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_ufr_objc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug test_ufr_objc</string>
+			<key>timeStartedRecording</key>
+			<real>577796381.48119903</real>
+			<key>timeStoppedRecording</key>
+			<real>577796552.88381898</real>
+			<key>title</key>
+			<string>Debug test_ufr_objc</string>
+			<key>uniqueIdentifier</key>
+			<string>347FFCB0-C558-466D-998A-38FC9602DD70</string>
+		</dict>
+		<key>35AB6D0E-D464-4D19-9211-D89BCEF648CD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>35AB6D0E-D464-4D19-9211-D89BCEF648CD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_ufr_objc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_ufr_objc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug test_ufr_objc</string>
+			<key>timeStartedRecording</key>
+			<real>577796211.30947006</real>
+			<key>timeStoppedRecording</key>
+			<real>577796274.46338499</real>
+			<key>title</key>
+			<string>Debug test_ufr_objc</string>
+			<key>uniqueIdentifier</key>
+			<string>35AB6D0E-D464-4D19-9211-D89BCEF648CD</string>
+		</dict>
+		<key>AF883972-7D77-4BBF-BC2D-4A4B79D320BE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AF883972-7D77-4BBF-BC2D-4A4B79D320BE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_ufr_objc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_ufr_objc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug test_ufr_objc</string>
+			<key>timeStartedRecording</key>
+			<real>577795969.64206803</real>
+			<key>timeStoppedRecording</key>
+			<real>577796843.48177505</real>
+			<key>title</key>
+			<string>Debug test_ufr_objc</string>
+			<key>uniqueIdentifier</key>
+			<string>AF883972-7D77-4BBF-BC2D-4A4B79D320BE</string>
+		</dict>
+		<key>C75D5B90-DD86-4E67-8291-8C1F00ABAA87</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C75D5B90-DD86-4E67-8291-8C1F00ABAA87.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_ufr_objc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_ufr_objc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug test_ufr_objc</string>
+			<key>timeStartedRecording</key>
+			<real>577796845.23852706</real>
+			<key>timeStoppedRecording</key>
+			<real>577796872.19751596</real>
+			<key>title</key>
+			<string>Debug test_ufr_objc</string>
+			<key>uniqueIdentifier</key>
+			<string>C75D5B90-DD86-4E67-8291-8C1F00ABAA87</string>
+		</dict>
+		<key>CAA4BA0F-9258-4863-B28A-68679DAF55DB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CAA4BA0F-9258-4863-B28A-68679DAF55DB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_ufr_objc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_ufr_objc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug test_ufr_objc</string>
+			<key>timeStartedRecording</key>
+			<real>577796102.49077594</real>
+			<key>timeStoppedRecording</key>
+			<real>577796160.73856103</real>
+			<key>title</key>
+			<string>Debug test_ufr_objc</string>
+			<key>uniqueIdentifier</key>
+			<string>CAA4BA0F-9258-4863-B28A-68679DAF55DB</string>
+		</dict>
+		<key>E7A76B41-78CA-4B5B-9C9D-C5F95148DC38</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E7A76B41-78CA-4B5B-9C9D-C5F95148DC38.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_ufr_objc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_ufr_objc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug test_ufr_objc</string>
+			<key>timeStartedRecording</key>
+			<real>577796044.33571899</real>
+			<key>timeStoppedRecording</key>
+			<real>577796070.15202999</real>
+			<key>title</key>
+			<string>Debug test_ufr_objc</string>
+			<key>uniqueIdentifier</key>
+			<string>E7A76B41-78CA-4B5B-9C9D-C5F95148DC38</string>
+		</dict>
+		<key>FD7694BE-450B-4F17-AE2A-6A284147AF8F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FD7694BE-450B-4F17-AE2A-6A284147AF8F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_ufr_objc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_ufr_objc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug test_ufr_objc</string>
+			<key>timeStartedRecording</key>
+			<real>577796070.20713603</real>
+			<key>timeStoppedRecording</key>
+			<real>577796102.273072</real>
+			<key>title</key>
+			<string>Debug test_ufr_objc</string>
+			<key>uniqueIdentifier</key>
+			<string>FD7694BE-450B-4F17-AE2A-6A284147AF8F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
