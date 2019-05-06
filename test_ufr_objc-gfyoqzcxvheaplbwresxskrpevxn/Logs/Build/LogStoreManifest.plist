@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>3A86D696-8DB7-47BD-942E-DB780D091E3D</key>
+		<key>05CD360F-CDC3-4971-B86C-2691718CD8E6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3A86D696-8DB7-47BD-942E-DB780D091E3D.xcactivitylog</string>
+			<string>05CD360F-CDC3-4971-B86C-2691718CD8E6.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,15 +27,15 @@
 			<key>signature</key>
 			<string>Build test_ufr_objc</string>
 			<key>timeStartedRecording</key>
-			<real>577790087.38386798</real>
+			<real>578853517.27225602</real>
 			<key>timeStoppedRecording</key>
-			<real>577790094.44949901</real>
+			<real>578853517.35616195</real>
 			<key>title</key>
 			<string>Build test_ufr_objc</string>
 			<key>uniqueIdentifier</key>
-			<string>3A86D696-8DB7-47BD-942E-DB780D091E3D</string>
+			<string>05CD360F-CDC3-4971-B86C-2691718CD8E6</string>
 		</dict>
-		<key>4D353E14-1C51-4D77-BA41-9CCC05446B65</key>
+		<key>99EAEED1-1853-468B-92D8-39CF09DEF815</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -44,7 +44,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4D353E14-1C51-4D77-BA41-9CCC05446B65.xcactivitylog</string>
+			<string>99EAEED1-1853-468B-92D8-39CF09DEF815.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>schemeIdentifier-containerName</key>
@@ -56,274 +56,13 @@
 			<key>signature</key>
 			<string>Build test_ufr_objc</string>
 			<key>timeStartedRecording</key>
-			<real>577796211.01222301</real>
+			<real>578853273.43483996</real>
 			<key>timeStoppedRecording</key>
-			<real>577796211.33958697</real>
+			<real>578853274.713117</real>
 			<key>title</key>
 			<string>Build test_ufr_objc</string>
 			<key>uniqueIdentifier</key>
-			<string>4D353E14-1C51-4D77-BA41-9CCC05446B65</string>
-		</dict>
-		<key>536B7E2B-CB47-45FC-A688-53CDEE15FCE9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>536B7E2B-CB47-45FC-A688-53CDEE15FCE9.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>test_ufr_objc project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>test_ufr_objc</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build test_ufr_objc</string>
-			<key>timeStartedRecording</key>
-			<real>577796381.31782305</real>
-			<key>timeStoppedRecording</key>
-			<real>577796381.51387501</real>
-			<key>title</key>
-			<string>Build test_ufr_objc</string>
-			<key>uniqueIdentifier</key>
-			<string>536B7E2B-CB47-45FC-A688-53CDEE15FCE9</string>
-		</dict>
-		<key>831C7A52-9D8F-4DA7-B658-2F4CFD79183F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>831C7A52-9D8F-4DA7-B658-2F4CFD79183F.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>test_ufr_objc project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>test_ufr_objc</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build test_ufr_objc</string>
-			<key>timeStartedRecording</key>
-			<real>577795967.42656302</real>
-			<key>timeStoppedRecording</key>
-			<real>577795969.65846705</real>
-			<key>title</key>
-			<string>Build test_ufr_objc</string>
-			<key>uniqueIdentifier</key>
-			<string>831C7A52-9D8F-4DA7-B658-2F4CFD79183F</string>
-		</dict>
-		<key>89918046-5383-40F1-8650-378B4F40B569</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>89918046-5383-40F1-8650-378B4F40B569.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>test_ufr_objc project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>test_ufr_objc</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build test_ufr_objc</string>
-			<key>timeStartedRecording</key>
-			<real>577796102.180112</real>
-			<key>timeStoppedRecording</key>
-			<real>577796102.52139103</real>
-			<key>title</key>
-			<string>Build test_ufr_objc</string>
-			<key>uniqueIdentifier</key>
-			<string>89918046-5383-40F1-8650-378B4F40B569</string>
-		</dict>
-		<key>90AF336B-BF25-4844-9EF6-08FD81700B02</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>90AF336B-BF25-4844-9EF6-08FD81700B02.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>test_ufr_objc project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>test_ufr_objc</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build test_ufr_objc</string>
-			<key>timeStartedRecording</key>
-			<real>577796274.34863603</real>
-			<key>timeStoppedRecording</key>
-			<real>577796274.69069195</real>
-			<key>title</key>
-			<string>Build test_ufr_objc</string>
-			<key>uniqueIdentifier</key>
-			<string>90AF336B-BF25-4844-9EF6-08FD81700B02</string>
-		</dict>
-		<key>A5CD712A-37CB-4517-AD56-19AC3C58193E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A5CD712A-37CB-4517-AD56-19AC3C58193E.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>test_ufr_objc project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>test_ufr_objc</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build test_ufr_objc</string>
-			<key>timeStartedRecording</key>
-			<real>577796160.50586498</real>
-			<key>timeStoppedRecording</key>
-			<real>577796160.82428205</real>
-			<key>title</key>
-			<string>Build test_ufr_objc</string>
-			<key>uniqueIdentifier</key>
-			<string>A5CD712A-37CB-4517-AD56-19AC3C58193E</string>
-		</dict>
-		<key>BD2DE64B-1B4F-49A3-AFC4-9E14D1563B4F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BD2DE64B-1B4F-49A3-AFC4-9E14D1563B4F.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>test_ufr_objc project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>test_ufr_objc</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build test_ufr_objc</string>
-			<key>timeStartedRecording</key>
-			<real>577796070.01703894</real>
-			<key>timeStoppedRecording</key>
-			<real>577796070.24399102</real>
-			<key>title</key>
-			<string>Build test_ufr_objc</string>
-			<key>uniqueIdentifier</key>
-			<string>BD2DE64B-1B4F-49A3-AFC4-9E14D1563B4F</string>
-		</dict>
-		<key>C08D0317-EF2F-4946-916C-B059F416584F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C08D0317-EF2F-4946-916C-B059F416584F.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>test_ufr_objc project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>test_ufr_objc</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build test_ufr_objc</string>
-			<key>timeStartedRecording</key>
-			<real>577796844.78938794</real>
-			<key>timeStoppedRecording</key>
-			<real>577796845.27823901</real>
-			<key>title</key>
-			<string>Build test_ufr_objc</string>
-			<key>uniqueIdentifier</key>
-			<string>C08D0317-EF2F-4946-916C-B059F416584F</string>
-		</dict>
-		<key>EC787BE2-CB94-427D-AE02-2479B869C843</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EC787BE2-CB94-427D-AE02-2479B869C843.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>test_ufr_objc project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>test_ufr_objc</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build test_ufr_objc</string>
-			<key>timeStartedRecording</key>
-			<real>577796038.18282402</real>
-			<key>timeStoppedRecording</key>
-			<real>577796044.38426995</real>
-			<key>title</key>
-			<string>Build test_ufr_objc</string>
-			<key>uniqueIdentifier</key>
-			<string>EC787BE2-CB94-427D-AE02-2479B869C843</string>
-		</dict>
-		<key>F54B084B-B63C-4B46-AB7A-040A0257D26C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F54B084B-B63C-4B46-AB7A-040A0257D26C.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>test_ufr_objc project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>test_ufr_objc</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build test_ufr_objc</string>
-			<key>timeStartedRecording</key>
-			<real>577796729.60123205</real>
-			<key>timeStoppedRecording</key>
-			<real>577796730.175246</real>
-			<key>title</key>
-			<string>Build test_ufr_objc</string>
-			<key>uniqueIdentifier</key>
-			<string>F54B084B-B63C-4B46-AB7A-040A0257D26C</string>
+			<string>99EAEED1-1853-468B-92D8-39CF09DEF815</string>
 		</dict>
 	</dict>
 </dict>
